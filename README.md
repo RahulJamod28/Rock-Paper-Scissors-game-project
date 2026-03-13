@@ -22,8 +22,4 @@ This project is beginner-friendly and helps to understand JavaScript events and 
 
 ---
 
-## ▶️ How to Run the Project
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/RahulJamod28/Rock-Paper-Scissors-game-project.git
